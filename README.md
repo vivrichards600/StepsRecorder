@@ -1,6 +1,9 @@
 # StepsRecorder
 Quickly create a readable test script as you interact with a website.
 
+![alt text](https://github.com/vivrichards600/StepsRecorder/blob/master/steps-recorder.png "App Screenshot")
+
+
 ## How to use
 * Left click to record an action
 * Right click to do an assertion
