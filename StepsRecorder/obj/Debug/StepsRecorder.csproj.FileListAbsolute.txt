@@ -1,0 +1,37 @@
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\bin\Debug\StepsRecorder.exe.config
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.csprojResolveAssemblyReference.cache
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.Form1.resources
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.Properties.Resources.resources
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.csproj.GenerateResource.Cache
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\bin\Debug\StepsRecorder.exe
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\bin\Debug\StepsRecorder.pdb
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.exe
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.pdb
+C:\Users\Viv\AppData\Local\Temporary Projects\StepsRecorder\obj\Debug\StepsRecorder.csproj.ResolveComReference.cache
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\bin\Debug\StepsRecorder.exe.config
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\bin\Debug\StepsRecorder.exe
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\bin\Debug\StepsRecorder.pdb
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\bin\Debug\en-GB\StepsRecorder.resources.dll
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.csproj.ResolveComReference.cache
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.Properties.Resources.resources
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.StepsRecorder.resources
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.StepsRecorder.en-GB.resources
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.csproj.GenerateResource.Cache
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\en-GB\StepsRecorder.resources.dll
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.exe
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.pdb
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.csprojResolveAssemblyReference.cache
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\bin\Debug\StepsRecorder.exe.config
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\bin\Debug\StepsRecorder.exe
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\bin\Debug\StepsRecorder.pdb
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\bin\Debug\en-GB\StepsRecorder.resources.dll
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.csproj.ResolveComReference.cache
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.AboutBox.resources
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.Properties.Resources.resources
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.StepsRecorder.resources
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.StepsRecorder.en-GB.resources
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.csproj.GenerateResource.Cache
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\en-GB\StepsRecorder.resources.dll
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.exe
+C:\Users\richardsV\Desktop\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.pdb
+C:\Users\Viv\Documents\Visual Studio 2015\Projects\StepsRecorder\StepsRecorder\obj\Debug\StepsRecorder.AboutBox.resources
